@@ -1,0 +1,8 @@
+SayHelloIntent say hello
+SayHelloIntent hello
+SayHelloIntent hi
+SayHelloIntent say hi
+MakeCupOfTeaIntent how do I make a brew?
+MakeCupOfTeaIntent cup of tea?
+MakeCupOfTeaIntent how do I make a cup of tea?
+MakeCupOfTeaIntent tea?

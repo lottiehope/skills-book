@@ -1,0 +1,19 @@
+{
+  "name": "skills-book",
+  "version": "1.0.0",
+  "description": "A book of skills",
+  "main": "index.js",
+  "scripts": {
+    "proxy": "bst proxy lambda index.js",
+    "deploy": "bst deploy lambda"
+  },
+  "dependencies": {
+    "alexa-sdk": "^1.0.9",
+    "bespoken-tools": "^1.0.5",
+    "dotenv": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lottiehope/skills-book"
+  }
+}
